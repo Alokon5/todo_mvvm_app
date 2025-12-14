@@ -6,11 +6,9 @@ Submitted for **CodeNicely Software Services LLP – Flutter Developer Shortlist
 
 ## 📸 Screenshots
 
-> Create a folder named `screenshots/` in your project root and place the images there.
-
 | Login Screen | Register Screen | Todo List | Add Todo | Edit Todo |
 |--------------|-----------------|------------------------|
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) | ![Todo List](screenshots/todo_list.png) | ![Add Todo](screenshots/add_todo.png) | ![Edit Todo](screenshots/edit_todo.png) |
+| ![Login](screenshots/login.jpg) | ![Register](screenshots/register.jpg) | ![Todo List](screenshots/todo_list.jpg) | ![Add Todo](screenshots/add_todo.jpg) | ![Edit Todo](screenshots/edit_todo.jpg) |
 
 ## 🚀 Features Implemented
 
