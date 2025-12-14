@@ -83,11 +83,11 @@ lib/
 ## ⚙️ How to Run
 
 1. Clone the repo:
-   ```bash
+   bash
    git clone https://github.com/your-username/todo_mvvm_app.git
 
 2.  cd todo_mvvm_app
 
-3.   flutter pub get
+3.  flutter pub get
 
-4.   flutter run
+4.  flutter run

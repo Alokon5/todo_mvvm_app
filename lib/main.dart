@@ -19,6 +19,7 @@ void main() async {
   Hive.registerAdapter(TodoAdapter());
   Hive.registerAdapter(UserAdapter());
 
+  final themeController = Get.put(ThemeController());
   final authController = Get.put(AuthController());
 
   await authController.checkSession();
