@@ -10,7 +10,7 @@
 
 ## 🎥 App Demo Video
 
-https://github.com/user123/todo-mvvm-app/assets/12345678/abcdef12-3456-7890-abcd-ef1234567890
+https://drive.google.com/file/d/1tGdYjR6wkOto2Ugi9q5LI4GOAVqXcPPI/view?usp=drive_link
 
 The video demonstrates:
 - Register → Login → Auto-login after app restart
