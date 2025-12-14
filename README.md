@@ -3,10 +3,23 @@
 
 ## 📸 Screenshots
 
-| Login Screen | Register Screen | Todo List | Add Todo | Edit Todo |
-|-------------|-----------------|-----------|----------|-----------|
+<table>
+  <tr>
+    <th>Login</th>
+    <th>Register</th>
+    <th>Todo List</th>
+    <th>Add Todo</th>
+    <th>Edit Todo</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/login.jpg" width="180"/></td>
+    <td><img src="screenshots/register.jpg" width="180"/></td>
+    <td><img src="screenshots/todo_list.jpg" width="180"/></td>
+    <td><img src="screenshots/add_todo.jpg" width="180"/></td>
+    <td><img src="screenshots/edit_todo.jpg" width="180"/></td>
+  </tr>
+</table>
 
-| ![Login](screenshots/login.jpg) | ![Register](screenshots/register.jpg) | ![Todo List](screenshots/todo_list.jpg) | ![Add Todo](screenshots/add_todo.jpg) | ![Edit Todo](screenshots/edit_todo.jpg) |
 
 
 ## 🎥 App Demo Video
