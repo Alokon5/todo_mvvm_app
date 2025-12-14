@@ -1,0 +1,74 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.migrate/
+.swiftpm/
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+local.properties
+
+# VS Code
+.vscode/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Hive generated files (if using hive_generator)
+*.g.dart
+
+# Android related
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/.gradle
+/android/captures/
+/android/gradle
+/android/gradlew
+/android/gradlew.bat
+
+# iOS related
+/ios/.generated/
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/app.flx
+/ios/Flutter/flutter_assets/
+/ios/Pods/
+/ios/Podfile.lock
+/ios/.symlinks/
+/ios/Flutter/.last_build_id
+
+# Web related (if you ever enable web)
+/web/icons/Icon-*
+
+# Windows/macOS/Linux
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
