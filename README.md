@@ -1,14 +1,26 @@
-# Todo MVVM App – CodeNicely Flutter Assignment
+# Todo MVVM App 
 
-A complete **Todo Management Application** built with **Flutter**, strictly following **MVVM architecture** and **GetX** for state management, routing, and dependency injection.
-
-Submitted for **CodeNicely Software Services LLP – Flutter Developer Shortlisting Assignment**.
 
 ## 📸 Screenshots
 
 | Login Screen | Register Screen | Todo List | Add Todo | Edit Todo |
 |--------------|-----------------|------------------------|
 | ![Login](screenshots/login.jpg) | ![Register](screenshots/register.jpg) | ![Todo List](screenshots/todo_list.jpg) | ![Add Todo](screenshots/add_todo.jpg) | ![Edit Todo](screenshots/edit_todo.jpg) |
+
+
+## 🎥 App Demo Video
+
+https://github.com/user123/todo-mvvm-app/assets/12345678/abcdef12-3456-7890-abcd-ef1234567890
+
+https://www.loom.com/share/abcdef1234567890  
+(or YouTube / Drive link – whichever you prefer)
+
+The video demonstrates:
+- Register → Login → Auto-login after app restart
+- Add, Edit, Delete, Toggle completion
+- Search & Filter functionality
+- Dark/Light mode toggle
+- Logout (complete data clearance)
 
 ## 🚀 Features Implemented
 
@@ -84,7 +96,7 @@ lib/
 
 1. Clone the repo:
    bash
-   git clone https://github.com/your-username/todo_mvvm_app.git
+   git clone https://github.com/Alokon5/todo_mvvm_app.git
 
 2.  cd todo_mvvm_app
 
