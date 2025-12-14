@@ -12,6 +12,8 @@
 
 https://drive.google.com/file/d/1tGdYjR6wkOto2Ugi9q5LI4GOAVqXcPPI/view?usp=drive_link
 
+If given url do not work then check :- assets/video/demo.mp4
+
 The video demonstrates:
 - Register → Login → Auto-login after app restart
 - Add, Edit, Delete, Toggle completion
