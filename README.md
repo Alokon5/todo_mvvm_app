@@ -12,9 +12,6 @@
 
 https://github.com/user123/todo-mvvm-app/assets/12345678/abcdef12-3456-7890-abcd-ef1234567890
 
-https://www.loom.com/share/abcdef1234567890  
-(or YouTube / Drive link – whichever you prefer)
-
 The video demonstrates:
 - Register → Login → Auto-login after app restart
 - Add, Edit, Delete, Toggle completion
