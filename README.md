@@ -10,9 +10,8 @@
 
 ## 🎥 App Demo Video
 
-https://drive.google.com/file/d/1tGdYjR6wkOto2Ugi9q5LI4GOAVqXcPPI/view?usp=drive_link
+[▶ Watch Demo Video](https://drive.google.com/file/d/1tGdYjR6wkOto2Ugi9q5LI4GOAVqXcPPI/view?usp=drive_link)
 
-If given url do not work then check :- assets/video/demo.mp4
 
 The video demonstrates:
 - Register → Login → Auto-login after app restart
@@ -58,6 +57,7 @@ The video demonstrates:
 
 ## 📂 Project Structure
 
+```text
 lib/
 ├── core/
 │   ├── controllers/      # ThemeController
@@ -79,7 +79,7 @@ lib/
 ├── routes/
 │   └── app_pages.dart    # Routes, initial route logic, bindings
 ├── main.dart
-
+```
 
 
 ## 🛠 Tech Stack
