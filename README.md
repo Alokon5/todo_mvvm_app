@@ -4,7 +4,8 @@
 ## 📸 Screenshots
 
 | Login Screen | Register Screen | Todo List | Add Todo | Edit Todo |
-|--------------|-----------------|------------------------|
+|-------------|-----------------|-----------|----------|-----------|
+
 | ![Login](screenshots/login.jpg) | ![Register](screenshots/register.jpg) | ![Todo List](screenshots/todo_list.jpg) | ![Add Todo](screenshots/add_todo.jpg) | ![Edit Todo](screenshots/edit_todo.jpg) |
 
 
